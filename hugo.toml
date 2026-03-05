@@ -4,3 +4,8 @@ title = 'My New Hugo Site'
 
 [taxonomy]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
